@@ -215,25 +215,4 @@ Web app:
 http://localhost:3000
 ```
 
-Run the Flutter app:
-
-```arduino
-cd mobile
-flutter pub get
-flutter run
-```
-
-Run backend tests:
-
-```powershell
-python -m pytest backend/tests
-```
-
-Build the web app:
-
-```powershell
-cd web
-npm run build
-```
-
 
