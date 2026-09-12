@@ -144,13 +144,7 @@ npm install
 cd ..
 ```
 
-Install the mobile dependencies:
 
-```powershell
-cd mobile
-flutter pub get
-cd ..
-```
 
 ## 8. Environment Variables
 
