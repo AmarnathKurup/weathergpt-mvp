@@ -236,20 +236,4 @@ cd web
 npm run build
 ```
 
-## 10. APK
-
-The Android APK is built from the Flutter project in `mobile/`.
-
-```powershell
-cd mobile
-flutter build apk --release
-```
-
-The release APK is generated at:
-
-```text
-mobile/build/app/outputs/flutter-apk/app-release.apk
-```
-
-Build artifacts are intentionally ignored by git. Rebuild the APK from source whenever you need a fresh distributable.
 
