@@ -117,12 +117,6 @@ Flutter Android APK build
 | Screen | Preview |
 |---|---|
 | Home | ![WeatherGPT home dashboard](docs/screenshots/home.png) |
-| WeatherGPT | ![WeatherGPT conversational assistant](docs/screenshots/weathergpt.png) |
-| Map | ![WeatherGPT GIS weather map](docs/screenshots/map.png) |
-| Alerts | ![WeatherGPT IMD alert center](docs/screenshots/alerts.png) |
-| Multilingual | ![WeatherGPT multilingual Hindi interface](docs/screenshots/multilingual.png) |
-| Mobile | ![WeatherGPT mobile responsive view](docs/screenshots/mobile.png) |
-| Climate | ![WeatherGPT climate analytics](docs/screenshots/climate.png) |
 
 ## 7. Installation
 
