@@ -1,0 +1,74 @@
+[
+  {
+    "id": "imd-overview",
+    "topic": "IMD",
+    "keywords": ["imd", "india meteorological department", "indian weather agency"],
+    "content": "The India Meteorological Department (IMD) is India's national meteorological service, responsible for weather forecasting, observation, and issuing cyclone and extreme-weather warnings. It uses a color-coded alert system: Green (no action needed), Yellow (be aware), Orange (be prepared), and Red (take action)."
+  },
+  {
+    "id": "imd-color-codes",
+    "topic": "IMD alert colors",
+    "keywords": ["color code", "colour code", "yellow alert", "orange alert", "red alert", "green alert", "warning level"],
+    "content": "IMD's four-color warning system: Green = no warning, normal conditions. Yellow = watch, stay updated on the situation. Orange = warning, be prepared to take action, potential for disruptive weather. Red = severe warning, take action immediately, extremely severe weather expected."
+  },
+  {
+    "id": "monsoon",
+    "topic": "Indian Monsoon",
+    "keywords": ["monsoon", "southwest monsoon", "northeast monsoon", "rainy season"],
+    "content": "India has two monsoon seasons: the Southwest (summer) Monsoon, roughly June to September, bringing most of the country's annual rainfall from the Arabian Sea and Bay of Bengal branches; and the Northeast (winter) Monsoon, October to December, mainly affecting Tamil Nadu, Puducherry, and southeastern coastal areas."
+  },
+  {
+    "id": "cyclone-basics",
+    "topic": "Tropical Cyclones",
+    "keywords": ["cyclone", "hurricane", "typhoon", "tropical storm", "depression"],
+    "content": "Tropical cyclones in the North Indian Ocean (Bay of Bengal and Arabian Sea) are classified by IMD into categories from Depression to Super Cyclonic Storm based on sustained wind speed. Bay of Bengal cyclones are typically more frequent and often occur pre-monsoon (April-May) and post-monsoon (October-December)."
+  },
+  {
+    "id": "heatwave",
+    "topic": "Heatwave",
+    "keywords": ["heatwave", "heat wave", "extreme heat", "loo"],
+    "content": "IMD declares a heatwave when the maximum temperature reaches at least 40°C in plains (30°C in hilly regions) and departs from normal by 4.5-6.4°C, or crosses 45°C outright. A severe heatwave is declared when the departure from normal exceeds 6.4°C or the temperature crosses 47°C. Precautions include staying hydrated, avoiding peak-sun hours (12-3pm), and wearing light, loose clothing."
+  },
+  {
+    "id": "flood-disaster",
+    "topic": "Flood Preparedness",
+    "keywords": ["flood", "flooding", "waterlogging", "heavy rainfall disaster"],
+    "content": "Flash floods can occur when rainfall exceeds 64.5mm in 24 hours (heavy rain) or 115.6mm (very heavy rain) per IMD rainfall categories. Key precautions: avoid crossing flooded roads or rivers, move to higher ground, keep emergency supplies ready, and monitor official disaster management advisories."
+  },
+  {
+    "id": "rainfall-categories",
+    "topic": "Rainfall Classification",
+    "keywords": ["rainfall category", "how much rain is heavy", "rainfall classification", "mm rain"],
+    "content": "IMD rainfall categories (24-hour totals): Light rain 2.5-15.5mm, Moderate rain 15.6-64.4mm, Heavy rain 64.5-115.5mm, Very heavy rain 115.6-204.4mm, Extremely heavy rain above 204.5mm."
+  },
+  {
+    "id": "climate-vs-weather",
+    "topic": "Climate vs Weather",
+    "keywords": ["climate change", "difference between climate and weather", "climate vs weather"],
+    "content": "Weather refers to short-term atmospheric conditions (hours to days), while climate describes long-term average weather patterns over decades. Climate change refers to long-term shifts in temperature and weather patterns, increasingly driven by human activities such as fossil fuel burning since the mid-1800s."
+  },
+  {
+    "id": "aqi-basics",
+    "topic": "Air Quality",
+    "keywords": ["aqi", "air quality index", "pollution", "smog"],
+    "content": "The Air Quality Index (AQI) in India is measured on a 0-500 scale: 0-50 Good, 51-100 Satisfactory, 101-200 Moderate, 201-300 Poor, 301-400 Very Poor, 401-500 Severe. Higher AQI values indicate greater health risk, especially for respiratory and cardiovascular conditions."
+  },
+  {
+    "id": "disaster-management",
+    "topic": "Disaster Management",
+    "keywords": ["ndma", "disaster management", "emergency preparedness", "evacuation"],
+    "content": "India's National Disaster Management Authority (NDMA) coordinates disaster response at the national level, working with State Disaster Management Authorities (SDMAs). During severe weather warnings, follow official evacuation orders, keep an emergency kit (water, food, medicines, flashlight, documents), and stay tuned to official advisories rather than unverified sources."
+  },
+  {
+    "id": "thunderstorm-safety",
+    "topic": "Thunderstorm Safety",
+    "keywords": ["thunderstorm", "lightning safety", "lightning strike"],
+    "content": "During thunderstorms, avoid open fields, tall isolated trees, and metal structures. If indoors, stay away from windows and unplug electrical equipment. IMD advises the 30-30 rule: seek shelter if thunder follows lightning within 30 seconds, and wait 30 minutes after the last thunderclap before going back outside."
+  },
+  {
+    "id": "fog-visibility",
+    "topic": "Fog and Visibility",
+    "keywords": ["fog", "dense fog", "low visibility", "winter fog"],
+    "content": "Dense winter fog is common across North India (Indo-Gangetic Plains) from December to January, often causing flight and train delays. IMD categorizes visibility as: Dense fog below 200m, Moderate fog 200-500m, Shallow fog 500-1000m."
+  }
+]
